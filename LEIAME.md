@@ -1,4 +1,8 @@
-## Paramos na aula de Props agora vamos para aula de Integração do CSS no React
-## Mateus Batistty
+## Projeto feito baseado em aulas de Mateus Batistty com algumas alterações como por exemplo vou utilizar o Styled components para estilização
 
 ## instalar o bootstrap
+
+## Utilizando o Bootstrap para criar no Navbar
+
+## Para demais estilizações será utilizado o Styled components
+
