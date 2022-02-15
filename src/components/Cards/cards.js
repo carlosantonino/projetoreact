@@ -7,7 +7,7 @@ function Cards(){
     return(
         <div>            
             <Card>
-                Meus Cards
+                Meu card
             </Card>
 
         </div>
