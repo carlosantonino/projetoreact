@@ -1,9 +1,13 @@
-import React from 'react';
+import React, { Component } from 'react';
+
+import { Rodape } from './style';
+
 
 function Footer(){
     return(
-        <div>
-            <p>Todos os direitos reservados</p>
+        <div>            
+            <Rodape>Todos os direitos reservados</Rodape>
+
         </div>
     )
 }
