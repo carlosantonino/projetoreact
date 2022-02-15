@@ -1,4 +1,4 @@
-## Projeto feito baseado em aulas de Mateus Batistty com algumas alterações como por exemplo vou utilizar o Styled components para estilização
+## Projeto vair ser feito baseado em aulas de Mateus Batistty com algumas alterações como por exemplo vou utilizar o Styled components para estilização
 
 ## instalar o bootstrap
 
