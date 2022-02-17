@@ -6,3 +6,6 @@
 
 ## Para demais estilizações será utilizado o Styled components
 
+
+## Criei um componentes Fimes para listar os filmes que estao em um array 
+## https://www.youtube.com/watch?v=Qxx3on_g-Xk
