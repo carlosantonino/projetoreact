@@ -1,4 +1,5 @@
 import React from 'react';
+import './filme.css';
 
 export default function Filme() {
     // Tabela criada em bootstrap para listar os filmes
@@ -12,6 +13,7 @@ export default function Filme() {
                       <th scope="col">Nome</th>
                       <th scope="col">Categoria</th>
                       <th scope="col">Ano</th>
+                      <th scope="col">Ações</th>
                       </tr>
                 </thead>
                 <tbody>
@@ -20,6 +22,10 @@ export default function Filme() {
                           <td>Eu a patroa e as crinças</td>
                            <td>Seriado</td>
                            <td>2010</td>
+                           <td className='text-right'>
+                               <button className='btn btn-info'>Informações</button>
+                               <button className='btn btn-danger'>Excluir</button>
+                            </td>
                       </tr>                    
                 </tbody>
             </table>

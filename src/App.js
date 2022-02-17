@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import Pessoa from './components/Pessoa/pessoa';
+// import Pessoa from './components/Pessoa/pessoa';
 import Filme from './components/Filme/filme';
 
 function App() {
@@ -11,14 +11,17 @@ function App() {
       <div className="App">
         <Header />
         <Filme />
-        <h1>Olá { curso }</h1>
+
+        {/* <h1>Olá { curso }</h1>
         <p>Menu primeiro App</p>
         <Pessoa 
           nome="Carlos"
           idade="49"
           foto="https://via.placeholder.com/150"
           profissao="Programador"
-          />
+          /> */}
+
+
         <Footer />
       </div>
     );
