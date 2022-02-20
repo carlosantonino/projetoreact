@@ -4,12 +4,16 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 // import Pessoa from './components/Pessoa/pessoa';
 import Filme from './components/Filme/filme';
+import Carousel from './components/Carousel/carousel';
+import Cards from './components/Cards/cards'
 
 function App() {
   const curso = "React";
     return (
       <div className="App">
         <Header />
+        <Carousel />
+        <Cards />
         <Filme />
 
         {/* <h1>Olá { curso }</h1>
