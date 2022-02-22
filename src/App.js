@@ -5,7 +5,7 @@ import Footer from './components/Footer';
 // import Pessoa from './components/Pessoa/pessoa';
 import Filme from './components/Filme/filme';
 import Carousel from './components/Carousel/carousel';
-import Cards from './components/Cards/cards'
+import Cards from './components/Cards/Cards';
 
 function App() {
   const curso = "React";
@@ -14,7 +14,7 @@ function App() {
         <Header />
         <Carousel />
         <Cards />
-        <Filme />
+        {/* <Filme /> */}
 
         {/* <h1>Olá { curso }</h1>
         <p>Menu primeiro App</p>
